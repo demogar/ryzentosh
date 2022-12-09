@@ -16,3 +16,23 @@ This is a guide to build a Hackintosh with a Ryzen CPU. It is based on the [Open
 | GPU | AMD RYZEN 7 3700X 3.6GHZ | |
 | SSD | 2x A-DATA SX8100 / 1TB / NVME 1.3 M.2 2280 | |
 
+```
+➜  ryzentosh git:(main) neofetch
+                    'c.          demogar@Demosteness-iMac-Pro.local
+                 ,xNMM.          ----------------------------------
+               .OMMMMo           OS: macOS 12.5.1 21G83 x86_64
+               OMMM0,            Host: Hackintosh (SMBIOS: iMacPro1,1)
+     .;loddo:' loolloddol;.      Kernel: 21.6.0
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 8 mins
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 53 (brew)
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.8.1
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 3840x2160, 1920x1080
+:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Rectangle
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Terminal: iTerm2
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal Font: FiraCode-Retina 12
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   CPU: AMD Ryzen 9 5900X
+    kMMMMMMMMMMMMMMMMMMMMMMd     GPU: AMD Radeon RX 5600 XT
+     ;KMMMMMMMWXXWMMMMMMMk.      Memory: 17421MiB / 32768MiB
+       .cooc,.    .,coo:.
+```
